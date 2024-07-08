@@ -5,7 +5,7 @@
 [![ar](https://github.com/getlantern/.github/blob/main/resources/Arabic.svg)](https://github.com/getlantern/.github/blob/main/profile/README.ar.md)
 [![fa](https://github.com/getlantern/.github/blob/main/resources/Farsi.svg)](https://github.com/getlantern/.github/blob/main/profile/README.fa.md)
 ---
-Censorship circumvention tool available for free download on any operating system
+Censorship circumvention tool available for free download on any operating system 
 
 ![cover page](https://github.com/getlantern/.github/blob/main/resources/cover_page.png)
 
